@@ -8,7 +8,7 @@ The image below shows a sign I made for my family opened in the "Universal gcode
 
 ![Alt text](https://raw.githubusercontent.com/alsliahona/gcode-optimizer/master/images/SideBySideComparison.PNG "Side-by-Side")
  
-Here is an image of the Shapeoko 2 burning the image from the gcode that was optimized.  The laser is a 2 watt 445nm laser in an aluminum heatsink attached to the opposite side of spindle.  It is fixed-focused based so that Z motion is not relavent and focus is set prior to starting the operation.
+Here is an image of the Shapeoko 2 burning the image from the gcode that was optimized.  The laser is a 2 watt 445nm laser in an custom machined aluminum heatsink attached to the opposite side the of spindle just under the X-axis motor.  It is fixed-focused based so that Z motion is not relavent and focus is set prior to starting the operation.
 
 ![Alt text](https://raw.githubusercontent.com/alsliahona/gcode-optimizer/master/images/LaserBurning.JPG "Burning")
 
