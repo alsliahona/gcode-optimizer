@@ -162,8 +162,8 @@ public:
 
 //
 // Sorting...
-bool SortLessPair(std::pair<std::vector<GCodeSet>::size_type, double> &left, 
-	std::pair<std::vector<GCodeSet>::size_type, double> &right) 
+bool SortLessPair(const std::pair<std::vector<GCodeSet>::size_type, double> &left, 
+	const std::pair<std::vector<GCodeSet>::size_type, double> &right) 
 {
 	return left.second < right.second;
 }
